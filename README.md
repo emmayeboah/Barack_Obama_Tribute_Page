@@ -1,4 +1,4 @@
-# Barack_Obama_Tribute_Page
+# Barack Obama Tribute Page
 
 ## The first African American to become president of USA responsive tribute page
 
